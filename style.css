@@ -3,9 +3,10 @@ body{
 }
 h2{
     background-color: #8b998a;
-    line-height: 2;
+    line-height: 3;
     margin-top: -10;
     font-family: cursive;
+    width: 1440px;
 }
 #note{
     font-size: 20px;
@@ -16,9 +17,11 @@ h2{
     text-align: center;
     background-color: white;
     line-height: 3;
+    font-size: 20px;
     color: gray;
+    font-family: cursive;
     width: 1440px;
 }
-h3{
+h3,h4{
     font-family: cursive;
 }
