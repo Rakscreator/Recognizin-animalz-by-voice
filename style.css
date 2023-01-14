@@ -8,8 +8,8 @@ h2{
     font-family: cursive;
     width: 1440px;
 }
-#note{
-    font-size: 20px;
+.note{
+    font-size: 17px;
 }
 .bottom{
     position: fixed;
@@ -24,4 +24,7 @@ h2{
 }
 h3,h4{
     font-family: cursive;
+}
+p{
+    
 }
